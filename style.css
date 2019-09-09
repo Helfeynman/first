@@ -2,10 +2,11 @@ body {
   font-family: Georgia;
   font-size: 16px;
   margin: 0 auto;   /* center content */
-  max-width: 800px; /* limit width */
+  max-width: 700px; /* limit width */
   line-height: 1.5;
   padding-top: 32px;
   padding-bottom: 32px;
+  text
 }
 #header {
   text-align: center;
